@@ -33,6 +33,7 @@ make packages
 - Make sure chromedriver.exe is placed inside PATH
 
 ### Make some modifications to the program and run
+- Provide Username and password into config.py file
 ```bash
 python scrape_olx.py
 ```
